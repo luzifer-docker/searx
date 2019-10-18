@@ -1,4 +1,4 @@
-FROM python:3-alpine
+FROM python:3.7-alpine
 
 ENV INSTALL_DIR=/opt/searx \
     VERSION=v0.15.0
